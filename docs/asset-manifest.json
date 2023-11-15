@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0896da89.css",
+    "main.js": "/static/js/main.c57d67b1.js",
+    "static/media/duckhunt_various_sheet.png": "/static/media/duckhunt_various_sheet.f1cc275699e47aaf9936.png",
+    "index.html": "/index.html",
+    "main.0896da89.css.map": "/static/css/main.0896da89.css.map",
+    "main.c57d67b1.js.map": "/static/js/main.c57d67b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0896da89.css",
+    "static/js/main.c57d67b1.js"
+  ]
+}
